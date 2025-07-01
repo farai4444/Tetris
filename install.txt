@@ -1,0 +1,6 @@
+open the project folder using a CLI (Command Line Interface/terminal)
+run the following command to package the project into a .jar file
+" mvn clean compile assembly:single "
+after it is done downloading the dependencies  it should show "build complete"
+once the build is complete, open the folder named target and look for a file with a suffix .jar
+once you find the file refer to the command on the README.md to run
