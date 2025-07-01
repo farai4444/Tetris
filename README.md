@@ -8,6 +8,7 @@ maven 3.9.10
 # Running project 
 to run the .jar file use the following command on the command line
 ### java -jar {your file name}.jar
-## NOTE: make sure the file is in the directory you are running the comman in
+## NOTE: make sure you run the command in the folder in which the file is located in 
+else use the absolute url 
 # installation
 check the install.txt file
